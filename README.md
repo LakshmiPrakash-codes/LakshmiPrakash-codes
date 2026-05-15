@@ -19,10 +19,10 @@ I'm a self-driven developer from Hyderabad, India. My path to software wasn't th
 ## 🧰 Tech Stack
 
 ```python
-languages   = ["Python", "SQL", "JavaScript (basics)"]
-backend     = ["FastAPI", "REST APIs", "PostgreSQL", "SQLAlchemy"]
-tools       = ["Git", "Docker", "Postman", "Linux", "VS Code"]
-learning    = ["System Design", "DSA", "Cloud & Deployment"]
+languages   = "Python", "SQL", "JavaScript (basics)"
+backend     = "FastAPI", "REST APIs", "PostgreSQL", "SQLAlchemy"
+tools       = "Git", "Docker", "Postman", "Linux", "VS Code"
+learning    = "System Design", "DSA", "Cloud & Deployment"
 ```
 
 ---
