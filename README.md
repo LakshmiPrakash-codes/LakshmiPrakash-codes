@@ -13,6 +13,7 @@ I'm a self-driven developer from Hyderabad, India. My path to software wasn't th
 | [DevLog CLI](https://github.com/LakshmiPrakash-codes/devlog-cli) | Developer daily activity logger with streaks & reports | Python, PostgreSQL, Click | 🔨 Building |
 | [OpenStatus](https://github.com/LakshmiPrakash-codes/openstatus) | Public API health monitor — uptime, response trends, alerts | FastAPI, PostgreSQL, Docker | 🔨 Building |
 | [CodeDuel](https://github.com/LakshmiPrakash-codes/codeduel) | Real-time competitive coding platform for two players | FastAPI, WebSockets, PostgreSQL | 🔨 Building |
+| [URL Shortener API](https://github.com/LakshmiPrakash-codes/url-shortener-api) | Production-grade URL shortening REST API with redirects & click tracking | FastAPI, PostgreSQL, Render | 🚀 Live | 
 
 ---
 
